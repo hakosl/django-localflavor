@@ -17,6 +17,7 @@ Modifications to existing flavors:
 - Fix Belarus passport field description punctuation
   (`gh-484 <https://github.com/django/django-localflavor/pull/484>`_).
 - Change `Kiev` to `Kyiv` 🇺🇦 according to ISO_3166-2:UA
+- Update list of Norwegian counties(fylker) `according to changes at the start of 2024 <https://en.wikipedia.org/wiki/Counties_of_Norway#List_of_counties>`_
 
 Other changes:
 
