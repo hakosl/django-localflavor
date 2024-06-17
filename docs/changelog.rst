@@ -18,6 +18,7 @@ Modifications to existing flavors:
   (`gh-484 <https://github.com/django/django-localflavor/pull/484>`_).
 - Change `Kiev` to `Kyiv` 🇺🇦 according to ISO_3166-2:UA
 - Update list of Norwegian counties(fylker) `according to changes at the start of 2024 <https://en.wikipedia.org/wiki/Counties_of_Norway#List_of_counties>`_ (`gh-509 <https://github.com/django/django-localflavor/pull/509/files>`_)
+  The changed counties are as follows: austagder and vestagder has been removed and combined into agder. hordaland and sognogfjordane has been removed and combined into vestland. nordtrondelag and sortrondelag has been removed and combined into trondelag. hedmark and oppland has been removed and combined into innlandet
 
 Other changes:
 
